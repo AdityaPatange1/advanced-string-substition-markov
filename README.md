@@ -4,13 +4,13 @@ A tiny toolkit for text transformation and content safety.
 
 ## ✨ What's Inside
 
-**assm.py** - Content moderation helper that redacts sensitive terms (multilingual!)
-- Supports English, Hindi, Urdu, Spanish, French, German, Italian, Russian, Turkish & more
-- Replaces flagged content with `[REDACTED_SV]`
+**assm.py** - Content moderation helper that redacts sensitive terms (multilingual!).
+- Supports English, Hindi, Urdu, Spanish, French, German, Italian, Russian, Turkish & more.
+- Replaces flagged content with `[REDACTED_SV]`.
 
-**llmmprktxblst.sh** - Fun text transformer
-- Replaces words with random Sanskrit/Chakra terms
-- 117 spiritual words like Kundalini, Chakra, Prana, Shakti...
+**llmmprktxblst.sh** - Fun text transformer.
+- Replaces words with random Sanskrit/Chakra terms.
+- 117 spiritual words like Kundalini, Chakra, Prana, Shakti.
 
 ## 🚀 Quick Start
 
@@ -30,12 +30,12 @@ chmod +x llmmprktxblst.sh
 
 ## 📝 Requirements
 
-- Python 3.12+
-- regex library
+- Python 3.12+.
+- regex library.
 
 ## 📜 License
 
-MPL-2.0
+MPL-2.0.
 
 ---
-*Powered by Sadhguru Shri Brahma* 🙏
+*Powered by Sadhguru Shri Brahma.* 🙏
