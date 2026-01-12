@@ -1,0 +1,2 @@
+# String processing utilities
+regex>=2023.0.0
